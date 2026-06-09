@@ -1,6 +1,6 @@
 # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ #
 # Description: It automates the process of changing MAC address in Kali linux using macchanger       #
-# Author:                                                                                 #
+# Author: Alloy-X                                                                               #
 # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ #
 
 #!/usr/bin/bash
